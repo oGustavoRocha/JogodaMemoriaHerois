@@ -1,0 +1,227 @@
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\Bruno\Desktop\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+H:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\'-'\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+I:\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+I:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ETEC\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\aluno\Desktop\'-'\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+I:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ETEC\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\aluno\Desktop\'-'2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ETEC\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\Bruno\Desktop\JOGO DA MEMÓRIA BETA\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ETEC\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+I:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+L:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+L:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+L:\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+I:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+I:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+I:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ \JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Splash.resources
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+E:\ \Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.exe
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.pdb
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.exe
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\bin\Debug\JogodaMemo.pdb
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.TelaSplash.resources
+H:\Arquivos\Módulo 2\JOGO DA MEMÓRIA BETA2\Jogo da memoria\JogodaMemo\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+C:\Users\Professores\Desktop\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.exe
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.pdb
+C:\Users\Professores\Desktop\JogodaMemo\bin\Debug\JogodaMemo.exe
+C:\Users\Professores\Desktop\JogodaMemo\bin\Debug\JogodaMemo.pdb
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.TelaSplash.resources
+C:\Users\Professores\Desktop\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+H:\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+H:\JogodaMemo\obj\Debug\JogodaMemo.exe
+H:\JogodaMemo\obj\Debug\JogodaMemo.pdb
+H:\JogodaMemo\bin\Debug\JogodaMemo.exe
+H:\JogodaMemo\bin\Debug\JogodaMemo.pdb
+H:\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+H:\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+H:\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+H:\JogodaMemo\obj\Debug\JogodaMemo.TelaSplash.resources
+H:\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
+H:\3 ano\JogodaMemo\bin\Debug\JogodaMemo.exe.config
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.exe
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.pdb
+H:\3 ano\JogodaMemo\bin\Debug\JogodaMemo.exe
+H:\3 ano\JogodaMemo\bin\Debug\JogodaMemo.pdb
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.csprojResolveAssemblyReference.cache
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.Form1.resources
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.Properties.Resources.resources
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.TelaSplash.resources
+H:\3 ano\JogodaMemo\obj\Debug\JogodaMemo.csproj.GenerateResource.Cache
